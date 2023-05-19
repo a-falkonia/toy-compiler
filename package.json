@@ -1,23 +1,21 @@
 {
-  "name": "toy-compiler",
-  "version": "1.0.0",
-  "description": "🐯 A small but fierce toy compiler",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest --coverage"
-  },
-  "author": "Anna Sokolova <a.falkonia@gmail.com>",
-  "license": "ISC",
-  "devDependencies": {
-    "eslint": "^8.40.0",
-    "eslint-config-prettier": "^8.8.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "install": "^0.13.0",
-    "jest": "^29.5.0",
-    "npm": "^9.6.7",
-    "prettier": "^2.8.8"
-  },
-  "dependencies": {
-    "ohm-js": "^17.1.0"
-  }
+    "name": "toy-compiler",
+    "version": "1.0.0",
+    "description": "🐯 A small but fierce toy compiler",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "author": "Anna Sokolova <a.falkonia@gmail.com>",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^8.40.0",
+        "eslint-config-prettier": "^8.8.0",
+        "eslint-plugin-prettier": "^4.2.1",
+        "install": "^0.13.0",
+        "jest": "^29.5.0",
+        "npm": "^9.6.7",
+        "prettier": "^2.8.8"
+    },
+    "dependencies": {}
 }
