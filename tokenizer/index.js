@@ -107,10 +107,4 @@ const tokenizer = (input) => {
 
 module.exports = {
     tokenizer,
-    skipWhiteSpace,
-    tokenizeParenOpen,
-    tokenizeParenClose,
-    tokenizeString,
-    tokenizeNumber,
-    tokenizeName,
 };
